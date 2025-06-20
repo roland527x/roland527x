@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+this is my secondary github account where i store some of my secrets
+
+visit [roland31x](https://github.com/roland31x) for my main
 <!--
 **roland527x/roland527x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
